@@ -1,0 +1,8 @@
+{
+    "name": "Hello World Workflow",
+    "description": "Hi Hi",
+    "iconName": "example-icon",
+    "categories": [
+        "Automation"
+    ]
+}
